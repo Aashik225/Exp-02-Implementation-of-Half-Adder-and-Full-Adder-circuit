@@ -67,35 +67,36 @@ endmodule
 ```
 
 ### Output:
+
 ### RTL
 
 ## HalfAdder:
 
-![img](
+![img](https://raw.githubusercontent.com/Aashik225/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/main/Screenshot%202024-01-01%20215202.png)
 
 ## FullAdder:
 
-![img](
+![img](https://raw.githubusercontent.com/Aashik225/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/main/Screenshot%202024-01-01%20215243.png)
 
 ### TIMING DIAGRAM
 
 ## HalfAdder:
 
-![img](
+![img](https://raw.githubusercontent.com/Aashik225/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/main/Screenshot%202024-01-01%20215218.png)
 
 ## FullAdder:
 
-![img](
+![img](https://raw.githubusercontent.com/Aashik225/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/main/Screenshot%202024-01-01%20215254.png)
 
 ### TRUTH TABLE 
 
 ## HalfAdder:
 
-![img](
+![img](https://raw.githubusercontent.com/Aashik225/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/main/Screenshot%202024-01-01%20215228.png)
 
 ## FullAdder:
 
-![img](
+![img](https://raw.githubusercontent.com/Aashik225/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/main/Screenshot%202024-01-01%20215305.png)
 
 ### Result:
 
